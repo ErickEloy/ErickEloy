@@ -1,36 +1,33 @@
 <h1 align="center">👋 olá! eu sou erick eloy</h1>
 
 <p align="center">
-  🤖 desenvolvedor rpa apaixonado por automação, tecnologia e inovação  
+  🤖 desenvolvedor rpa • automação end-to-end • integração de sistemas  
+  apaixonado por eficiência, inovação e soluções inteligentes  
 </p>
 
 <p align="center">
   <a href="mailto:erickeloy@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/erick-eloy-90214a1aa" target="_blank">
+  <a href="https://www.linkedin.com/in/erick-eloy-90214a1aa">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/erick.eloy" target="_blank">
+  <a href="https://www.instagram.com/erick.eloy">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://github.com/ErickEloy/ErickEloy/blob/main/CV%20ERICK.pdf">
+    <img src="https://img.shields.io/badge/Currículo-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 sobre mim
+## 🤖 sobre mim
 
-sou desenvolvedor rpa com experiência na criação de soluções de automação de ponta a ponta (end-to-end).  
-gosto de transformar processos complexos em sistemas eficientes, seguros e escaláveis, utilizando tecnologia para eliminar gargalos e melhorar a tomada de decisão.
+desenvolvedor rpa com experiência em arquitetura e implementação de soluções de automação de ponta a ponta.  
+atuo na integração de sistemas, análise de dados e criação de fluxos inteligentes para otimização operacional.  
 
----
-
-## 🚀 destaques da atuação
-
-- 🤝 desenvolvimento híbrido com plataformas low-code (power automate, uipath) e high-code (python, c#)  
-- 📊 automação de processos administrativos e análise de dados críticos  
-- 🧠 criação de soluções autônomas com lógica avançada  
-- ⚙️ foco em eficiência operacional e integração de sistemas  
+experiência com power automate, uipath, python, c#, integração de sistemas, automação de processos e análise de dados.  
 
 ---
 
@@ -40,39 +37,30 @@ gosto de transformar processos complexos em sistemas eficientes, seguros e escal
   <img src="https://skillicons.dev/icons?i=python,cs,git,github,vscode,mysql" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white" />
-  <img src="https://img.shields.io/badge/UiPath-FF6600?style=for-the-badge&logo=uipath&logoColor=white" />
-</p>
-
 ---
 
 ## 📅 atividade no github
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/blue/erick-eloy" />
+  <img src="https://ghchart.rshah.org/ErickEloy" />
 </p>
-
----
-
-## 🌟 foco profissional
-
-- 🤖 automação de processos industriais e corporativos  
-- 🔗 integração de sistemas  
-- 🧩 lógica avançada aplicada a negócios  
-- 🚀 inovação em processos organizacionais  
 
 ---
 
 ## 📜 certificados
 
 <p align="center">
-  <img src="LINK_CERTIFICADO_1" width="400"/>
-  <img src="LINK_CERTIFICADO_2" width="400"/>
+  <img src="https://github.com/user-attachments/assets/b5337027-978c-49f0-a33c-fe1e838bf401" width="400"/>
+  <img src="https://github.com/user-attachments/assets/b8598c2a-0f0c-4cef-ab7c-745d289ff88f" width="400"/>
 </p>
 
 <p align="center">
-  <img src="LINK_CERTIFICADO_3" width="400"/>
+  <img src="https://github.com/user-attachments/assets/2c4d9610-d91a-408c-aeb8-376ed85a63c5" width="400"/>
+  <img src="https://github.com/user-attachments/assets/48c8e735-bd14-4a44-b9c1-96ab2a674dc4" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a485624c-03a5-49e4-843e-3435a285514d" width="400"/>
 </p>
 
 ---
@@ -83,12 +71,10 @@ gosto de transformar processos complexos em sistemas eficientes, seguros e escal
   <a href="mailto:erickeloy@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/erick-eloy-90214a1aa" target="_blank">
+  <a href="https://www.linkedin.com/in/erick-eloy-90214a1aa">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/erick.eloy" target="_blank">
+  <a href="https://www.instagram.com/erick.eloy">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-
----
