@@ -1,7 +1,7 @@
 <h1 align="center">👋 olá! eu sou erick eloy</h1>
 
 <p align="center">
-  🤖 desenvolvedor rpa | automação end-to-end | integração de sistemas  
+  🤖 desenvolvedor rpa apaixonado por automação, tecnologia e inovação  
 </p>
 
 <p align="center">
@@ -20,17 +20,17 @@
 
 ## 👨‍💻 sobre mim
 
-desenvolvedor rpa com sólida experiência na arquitetura e implementação de soluções de automação end-to-end. minha atuação vai além da criação de robôs: foco no desenho de ecossistemas de automação que integrem lógica avançada, segurança de dados e eficiência operacional.
+sou desenvolvedor rpa com experiência na criação de soluções de automação de ponta a ponta (end-to-end).  
+gosto de transformar processos complexos em sistemas eficientes, seguros e escaláveis, utilizando tecnologia para eliminar gargalos e melhorar a tomada de decisão.
 
 ---
 
 ## 🚀 destaques da atuação
 
-- desenvolvimento híbrido: integração de plataformas low-code (power automate, uipath) com desenvolvimento high-code (python, c#) para superar limitações nativas e entregar soluções personalizadas.
-
-- projetos de alta complexidade: criação de sistemas autônomos para análise de dados críticos (monitoramento ambiental via satélite e processamento de imagens) e gestão de fluxos administrativos governamentais de grande volume.
-
-- autonomia e qualidade técnica: definição de boas práticas, revisão de código e estruturação de arquitetura visando escalabilidade e manutenção simplificada.
+- 🤝 desenvolvimento híbrido com plataformas low-code (power automate, uipath) e high-code (python, c#)  
+- 📊 automação de processos administrativos e análise de dados críticos  
+- 🧠 criação de soluções autônomas com lógica avançada  
+- ⚙️ foco em eficiência operacional e integração de sistemas  
 
 ---
 
@@ -47,20 +47,26 @@ desenvolvedor rpa com sólida experiência na arquitetura e implementação de s
 
 ---
 
-## 📊 foco profissional
+## 📅 atividade no github
 
-- automação de processos industriais e corporativos  
-- integração de sistemas  
-- lógica avançada aplicada a negócios  
-- eliminação de gargalos operacionais  
-- inteligência para tomada de decisão  
+<p align="center">
+  <img src="https://ghchart.rshah.org/blue/erick-eloy" />
+</p>
+
+---
+
+## 🌟 foco profissional
+
+- 🤖 automação de processos industriais e corporativos  
+- 🔗 integração de sistemas  
+- 🧩 lógica avançada aplicada a negócios  
+- 🚀 inovação em processos organizacionais  
 
 ---
 
 ## 📜 certificados
 
 <p align="center">
-  <!-- adicionar aqui os links das imagens dos certificados -->
   <img src="LINK_CERTIFICADO_1" width="400"/>
   <img src="LINK_CERTIFICADO_2" width="400"/>
 </p>
@@ -71,7 +77,7 @@ desenvolvedor rpa com sólida experiência na arquitetura e implementação de s
 
 ---
 
-## 📫 contato
+## 📫 como me encontrar
 
 <p align="center">
   <a href="mailto:erickeloy@gmail.com">
@@ -79,6 +85,9 @@ desenvolvedor rpa com sólida experiência na arquitetura e implementação de s
   </a>
   <a href="https://www.linkedin.com/in/erick-eloy-90214a1aa" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/erick.eloy" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
